@@ -1,0 +1,16 @@
+# gitignore for Electrophysiology repository
+# website: https://github.com/isakbjugn/Electrophysiology
+
+
+# Ignore large data files
+Data/2018-09-25T13-43-29MIP\ 4.h5
+Data/2018-09-21T11-43-55MIP\ 4\ POPII\ DIC14.h5
+Data/2018-09-21T16-10-16MIP\ 4\ NMDA\ syncham\ top\ 14DIC.h5
+Data/2018-09-21T16-00-58MIP\ 4\ Baseline\ 14DIC.h5
+Data/2018-09-14.h5
+Data/2018-10-03T11-45-31MiP\ 4\ 24h\ Post\ axotomy.h5
+Data/2018-10-02T13-45-51MiP4\ Post\ Axotomy.h5
+Data/2018-10-02T11-01-25MIP\ 4\ POP2\ DIC25\ for\ real.h5
+
+# Other files for test purposes
+# Layout/LayoutStandard.mat
